@@ -1,6 +1,6 @@
 ---
-layout: template_demo
-author:  Amrita Vazirani
+layout: default
+author:  Making the most of DITA
 ---
 
 # Forewords

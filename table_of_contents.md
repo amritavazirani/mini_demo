@@ -1,7 +1,7 @@
 # Table Of Contents
 
 | Sr. No | Chapter Name |
-|   1 | [About the Author](about_the_Author.md) |
+| 1 | [About the Author](about_the_Author.md) |
 |-------------- | ------------------------------|
 | 2 | [Introduction](intro.md) |
 |-------------- | ------------------------------|

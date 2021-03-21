@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Making the most of DITA
 ---
 
 # Forewords
 
-I authored the booked named {{ page.title }}.
+I authored the booked named {{ site.title }}.
 
 The book was written in the year {{ site.when }}.
 

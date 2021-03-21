@@ -4,7 +4,7 @@ layout: default
 
 # Forewords
 
-I authored the booked named {{ site.title }}.
+I authored the booked named {{ page.title }}.
 
 The book was written in the year {{ site.when }}.
 
@@ -15,6 +15,7 @@ The book provides information about the following:
 # Reference material available online
 
 In addition to this, here are the names of some bestselling books authored by me:
+
 
 {% for item in site.data.books %}
 - {{ item.books }}: {{ item.year }}

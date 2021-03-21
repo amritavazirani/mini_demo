@@ -19,9 +19,6 @@ In addition to this, here are the names of some bestselling books authored by me
 - {{ item.books }}: {{ item.year }}
 {% endfor %}
 
-<a href="https://amritavazirani.github.io/mini_demo/#about-author">[Click here] to read along.
-<!--[About the Author](#about-author)
-<!-->
 
 
 

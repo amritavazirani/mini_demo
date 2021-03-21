@@ -19,11 +19,8 @@ In addition to this, here are the names of some bestselling books authored by me
 - {{ item.books }}: {{ item.year }}
 {% endfor %}
 
-[Click here](table_of_contents.md) to read along.
+[Click here](about_the_Author.md) to read along.
 
-
-
-  
 
 
 

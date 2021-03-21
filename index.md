@@ -1,6 +1,5 @@
 ---
 layout: default
-author:  Making the most of DITA
 ---
 
 # Forewords

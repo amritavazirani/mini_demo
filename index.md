@@ -1,9 +1,9 @@
 ---
 layout: template_demo
-author:  Making the most of DITA
+author:  Amrita Vazirani
 ---
 
-# Home page
+# Forewords
 
 I authored the booked named {{ page.author }}.
 

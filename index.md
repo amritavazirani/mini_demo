@@ -11,9 +11,9 @@ The book was written in the year {{ site.when }}.
 
 The book provides information about the following:
 
-# Basics of DITA 
-# Make optimum use of available resources
-# Reference material available online
+- Basics of DITA 
+- Make optimum use of available resources
+- Reference material available online
 
 In addition to this, here are the names of some bestselling books authored by me:
 

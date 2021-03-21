@@ -19,14 +19,6 @@ In addition to this, here are the names of some bestselling books authored by me
 - {{ item.books }}: {{ item.year }}
 {% endfor %}
 
----
-navigation:
- - section: Table of Contents
- - document: about_author
-   label: About the Author 
- - document: chapter1
-   label: Chapter
----
 
 
 

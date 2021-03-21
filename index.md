@@ -19,8 +19,11 @@ In addition to this, here are the names of some bestselling books authored by me
 - {{ item.books }}: {{ item.year }}
 {% endfor %}
 
-<a href= "#about-auhtor"> Click here </a> to read along.
+<a href= "#about-author"> Click here </a> to read along.
 
+#About the Author {#about-author}
+
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you
 
   
 

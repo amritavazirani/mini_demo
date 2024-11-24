@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # About the Author
 
 ![Amrita Vazirani](assets/images/Amrita.png)
